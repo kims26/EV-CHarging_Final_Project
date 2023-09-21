@@ -30,13 +30,13 @@
 # 기술스택
 
 <p align="center">
-<img width="60%" src="https://user-images.githubusercontent.com/90763140/212874771-fd214c1a-4189-40b7-a50a-1f773392bcea.png">
+<img width="60%" src="https://github.com/kims26/TeamProject/assets/114653761/b06d0837-d90b-4b61-9550-10c4cf5cacf7">
 </p>
 
 # Data Flow
 
 <p align="center">
-<img width="60%" src="https://user-images.githubusercontent.com/90763140/212875029-999a18ff-d389-4e72-8dbf-0aef8a38c579.png">
+<img width="60%" src="https://github.com/kims26/TeamProject/assets/114653761/f9f142aa-a516-4152-ab2d-fbe46b593586">
 </p>
 
 # ERD
