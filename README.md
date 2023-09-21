@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img width="60%" src="https://user-images.githubusercontent.com/90763140/212879841-354fda8e-b566-49eb-85cc-b305843ccce6.png">
+<img width="60%" src="https://github.com/kims26/TeamProject/assets/114653761/5d4614a5-fafc-4828-929b-04891f9eae9f">
 </p>
 ![ERD](https://github.com/kims26/TeamProject/assets/114653761/7fbff21f-6e00-456f-aa3e-c42e63bfec76)
 <br><br>
