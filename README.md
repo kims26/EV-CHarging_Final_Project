@@ -249,47 +249,12 @@ TeamFinalProject
    │     ├─ .DS_Store
    │     ├─ WEB-INF
    │     │  ├─ .DS_Store
-   │     │  └─ views
-   │     │     ├─ category
-   │     │     │  ├─ a_type_category.jsp
-   │     │     │  ├─ b_type_category.jsp
-   │     │     │  └─ c_type_category.jsp
-   │     │     ├─ owner
-   │     │     │  ├─ admin_footer.jsp
-   │     │     │  ├─ owner_chart.jsp
-   │     │     │  ├─ owner_insert_form.jsp
-   │     │     │  ├─ owner_insert_msg.jsp
-   │     │     │  ├─ owner_list.jsp
-   │     │     │  ├─ owner_login_form.jsp
-   │     │     │  ├─ owner_modify_form.jsp
-   │     │     │  ├─ owner_order.jsp
-   │     │     │  ├─ owner_pay.jsp
-   │     │     │  ├─ owner_pay_list.jsp
-   │     │     │  ├─ owner_pay_succ.jsp
-   │     │     │  ├─ owner_product_list.jsp
-   │     │     │  ├─ owner_sales_rate.jsp
-   │     │     │  ├─ owner_sidebar.jsp
-   │     │     │  ├─ owner_topbar.jsp
-   │     │     │  └─ owner_wait.jsp
-   │     │     ├─ product
-   │     │     │  ├─ cart_list.jsp
-   │     │     │  ├─ product_cart_payment_list.jsp
-   │     │     │  ├─ product_insert_form.jsp
-   │     │     │  ├─ product_list.jsp
-   │     │     │  ├─ product_main_page.jsp
-   │     │     │  ├─ product_modify_form.jsp
-   │     │     │  ├─ product_page_form.jsp
-   │     │     │  └─ product_test.jsp
-   │     │     └─ search
-   │     │        └─ search_main.jsp
-   │     ├
    │    
    │    
    │    
+   │  
    └─ test
       └─ java
          └─ FinalProject
             └─ demo_final
                └─ DemoFinalApplicationTests.java
-
-```
