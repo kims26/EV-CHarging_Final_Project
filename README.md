@@ -9,6 +9,7 @@
 # EV-CHarging 소개
 
 **EV-CHarging**의 기획 의도는 지난 10년간
+
 1.시장의 급속한 성장
 
 2. 충전사업자 무분별하게 증가
@@ -249,52 +250,10 @@ TeamFinalProject
    │     ├─ WEB-INF
    │     │  ├─ .DS_Store
    │     │  └─ views
-   │     │     ├─ admin
-   │     │     │  ├─ admin_chart.jsp
-   │     │     │  ├─ admin_footer.jsp
-   │     │     │  ├─ admin_grade.jsp
-   │     │     │  ├─ admin_grade_list.jsp
-   │     │     │  ├─ admin_insert_form.jsp
-   │     │     │  ├─ admin_list.jsp
-   │     │     │  ├─ admin_login_form.jsp
-   │     │     │  ├─ admin_mem_grade.jsp
-   │     │     │  ├─ admin_mem_grade_list.jsp
-   │     │     │  ├─ admin_modify_form.jsp
-   │     │     │  ├─ admin_o_grade.jsp
-   │     │     │  ├─ admin_o_grade_list.jsp
-   │     │     │  ├─ admin_sidebar.jsp
-   │     │     │  └─ admin_topbar.jsp
-   │     │     ├─ board
-   │     │     │  ├─ board_insert_form.jsp
-   │     │     │  ├─ board_list.jsp
-   │     │     │  ├─ board_list2.jsp
-   │     │     │  ├─ board_modify_form.jsp
-   │     │     │  ├─ board_reply_form.jsp
-   │     │     │  ├─ board_view.jsp
-   │     │     │  └─ comment_list.jsp
    │     │     ├─ category
    │     │     │  ├─ a_type_category.jsp
    │     │     │  ├─ b_type_category.jsp
    │     │     │  └─ c_type_category.jsp
-   │     │     ├─ charge
-   │     │     │  ├─ charge_map.jsp
-   │     │     │  ├─ charge_test.jsp
-   │     │     │  └─ f_charger_list.jsp
-   │     │     ├─ main
-   │     │     │  ├─ footer.jsp
-   │     │     │  ├─ header.jsp
-   │     │     │  ├─ m_menu.jsp
-   │     │     │  └─ main.jsp
-   │     │     ├─ member
-   │     │     │  ├─ member_insert_form.jsp
-   │     │     │  ├─ member_login_form.jsp
-   │     │     │  ├─ member_modify_form.jsp
-   │     │     │  ├─ member_mypage.jsp
-   │     │     │  ├─ member_naver_insert_form.jsp
-   │     │     │  └─ product_order.jsp
-   │     │     ├─ naver
-   │     │     │  ├─ naverLogin.jsp
-   │     │     │  └─ naverSuccess.jsp
    │     │     ├─ owner
    │     │     │  ├─ admin_footer.jsp
    │     │     │  ├─ owner_chart.jsp
@@ -312,9 +271,6 @@ TeamFinalProject
    │     │     │  ├─ owner_sidebar.jsp
    │     │     │  ├─ owner_topbar.jsp
    │     │     │  └─ owner_wait.jsp
-   │     │     ├─ payment
-   │     │     │  ├─ payment_list.jsp
-   │     │     │  └─ payment_success.jsp
    │     │     ├─ product
    │     │     │  ├─ cart_list.jsp
    │     │     │  ├─ product_cart_payment_list.jsp
@@ -462,24 +418,6 @@ TeamFinalProject
    │     │     │  ├─ dataTables.bootstrap4.min.js
    │     │     │  ├─ jquery.dataTables.js
    │     │     │  └─ jquery.dataTables.min.js
-   │     │     ├─ fontawesome-free
-   │     │     │  ├─ LICENSE.txt
-   │     │     │  ├─ attribution.js
-   │     │     │  ├─ css
-   │     │     │  │  ├─ all.css
-   │     │     │  │  ├─ all.min.css
-   │     │     │  │  ├─ brands.css
-   │     │     │  │  ├─ brands.min.css
-   │     │     │  │  ├─ fontawesome.css
-   │     │     │  │  ├─ fontawesome.min.css
-   │     │     │  │  ├─ regular.css
-   │     │     │  │  ├─ regular.min.css
-   │     │     │  │  ├─ solid.css
-   │     │     │  │  ├─ solid.min.css
-   │     │     │  │  ├─ svg-with-js.css
-   │     │     │  │  ├─ svg-with-js.min.css
-   │     │     │  │  ├─ v4-shims.css
-   │     │     │  │  └─ v4-shims.min.css
    │     │     │  ├─ js
    │     │     │  │  ├─ all.js
    │     │     │  │  ├─ all.min.js
