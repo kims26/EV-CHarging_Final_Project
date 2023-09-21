@@ -1,8 +1,6 @@
 # 전기차 충전소 
 
 
-# 1등이조 - CafeMoa
-
 <p align="center">
 <img width="60%" src="https://user-images.githubusercontent.com/90763140/212879841-354fda8e-b566-49eb-85cc-b305843ccce6.png">
 </p>
