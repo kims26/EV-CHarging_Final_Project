@@ -4,21 +4,17 @@
 <p align="center">
 <img width="60%" src="https://github.com/kims26/TeamProject/assets/114653761/5d4614a5-fafc-4828-929b-04891f9eae9f">
 </p>
-![ERD](https://github.com/kims26/TeamProject/assets/114653761/7fbff21f-6e00-456f-aa3e-c42e63bfec76)
 <br><br>
 
-# CafeMoa 소개
+# EV-CHarging 소개
 
-**카페모아**의 기획 의도는 지난 10년간
-프랜차이즈 및 개인카페들이 우후죽순으로 늘어나고 있습니다.
+**EV-CHarging**의 기획 의도는 지난 10년간
+1.시장의 급속한 성장
 
-개인카페, 동네 카페의 경우에는 다른 커피점들과는 달리 뚜렷한 홍보수단이 없어 어려움을 겪고,
-프랜차이즈에 밀려 폐업을 하기도 한다.
+2. 충전사업자 무분별하게 증가
 
-그래서 이 카페들을 위한 홍보망을 구축하고, 이 사이트를 사용하는 고객들은 쿠폰서비스를 제공받아
-이득을 얻을 수 있도록 하기 위해 이 서비스를 기획하고, 개발을 하게 되었습니다.
+이로 인해 다양한 문제 발생
 
-# 배포주소
 
 
 
@@ -27,8 +23,8 @@
 # 팀원소개
 
 <p align="center">
-<img width="60%" src="https://user-images.githubusercontent.com/90763140/212874301-21959fd3-d114-4cb3-a6bd-498cadf955af.png">
-<img width="60%" src="https://user-images.githubusercontent.com/90763140/212874414-d37f8b41-6c29-4be1-8d5e-77a65bb45afa.png">
+<img width="60%" src="https://github.com/kims26/TeamProject/assets/114653761/b85ae0f7-23ec-4232-847f-450411d80129">
+
 </p>
 
 # 기술스택
@@ -46,11 +42,10 @@
 # ERD
 
 <p align="center">
-<img width="60%" src="![ERD](https://github.com/kims26/TeamProject/assets/114653761/7fbff21f-6e00-456f-aa3e-c42e63bfec76)
->
+<img width="60%" src="https://github.com/kims26/TeamProject/assets/114653761/7fbff21f-6e00-456f-aa3e-c42e63bfec76">
 </p>
 
-# API-DOCS
+
 
 
 
